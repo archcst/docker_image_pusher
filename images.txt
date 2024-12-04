@@ -4,5 +4,5 @@
 # xhofe/alist:latest
 # #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-bitnami/mongodb:8.0.3
+
 amazoncorretto:17.0.13
