@@ -6,3 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 amazoncorretto:17.0.13
+bitnami/mongodb:8.0.3
