@@ -10,3 +10,4 @@ bitnami/mongodb:8.0.3
 mysql:8.0.32
 amd64/traefik:v3.3.3
 redis:7.4.2-alpine
+nginx:1.23.3
