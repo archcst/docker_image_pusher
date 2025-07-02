@@ -13,3 +13,5 @@ redis:7.4.2-alpine
 nginx:1.23.3
 elasticsearch:8.17.5
 kibana:8.17.5
+bitnami/elasticsearch:8.18.0
+bitnami/kibana:8.18.0
