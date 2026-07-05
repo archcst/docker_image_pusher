@@ -16,4 +16,5 @@
 # bitnami/elasticsearch:8.18.0
 # bitnami/kibana:8.18.0
 # rabbitmq:4.2.2-management-alpine
-vaultwarden/server:1.35.2
+# vaultwarden/server:1.35.2
+redis/redis-stack-server:7.4.0-v8
